@@ -1,6 +1,6 @@
 package com.online.taxi.controller;
 
-import com.online.taxi.dto.ResponseResult;
+import com.online.taxi.common.dto.ResponseResult;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

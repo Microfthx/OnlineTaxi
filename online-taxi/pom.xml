@@ -21,7 +21,7 @@
 		<module>api-passenger</module>
 		
 		<!--能力层-->
-		<module>service-app-update</module>
+<!--		<module>service-app-update</module>-->
 		<module>service-order</module>
 		<module>service-order-dispatch</module>
 		<module>service-passenger-user</module>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OnlineTaxi.iml" filepath="$PROJECT_DIR$/.idea/OnlineTaxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/api-driver/api-driver.iml" filepath="$PROJECT_DIR$/online-taxi/api-driver/api-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/api-listen-order/api-listen-order.iml" filepath="$PROJECT_DIR$/online-taxi/api-listen-order/api-listen-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/api-passenger/api-passenger.iml" filepath="$PROJECT_DIR$/online-taxi/api-passenger/api-passenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/cloud-admin/cloud-admin.iml" filepath="$PROJECT_DIR$/online-taxi/cloud-admin/cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/config-client/config-client.iml" filepath="$PROJECT_DIR$/online-taxi/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/config-client-diy/config-client-diy.iml" filepath="$PROJECT_DIR$/online-taxi/config-client-diy/config-client-diy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/eureka/eureka.iml" filepath="$PROJECT_DIR$/online-taxi/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/online-taxi/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/online-taxi-common/online-taxi-common.iml" filepath="$PROJECT_DIR$/online-taxi/online-taxi-common/online-taxi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/online-taxi-config-server/online-taxi-config-server.iml" filepath="$PROJECT_DIR$/online-taxi/online-taxi-config-server/online-taxi-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/online-taxi-demo-app/online-taxi-demo-app.iml" filepath="$PROJECT_DIR$/online-taxi/online-taxi-demo-app/online-taxi-demo-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/online-taxi-parent.iml" filepath="$PROJECT_DIR$/online-taxi/online-taxi-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/online-taxi-zuul/online-taxi-zuul.iml" filepath="$PROJECT_DIR$/online-taxi/online-taxi-zuul/online-taxi-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-jms-consumer/service-jms-consumer.iml" filepath="$PROJECT_DIR$/online-taxi/service-jms-consumer/service-jms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-jms-produce/service-jms-produce.iml" filepath="$PROJECT_DIR$/online-taxi/service-jms-produce/service-jms-produce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-order/service-order.iml" filepath="$PROJECT_DIR$/online-taxi/service-order/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-order-dispatch/service-order-dispatch.iml" filepath="$PROJECT_DIR$/online-taxi/service-order-dispatch/service-order-dispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-passenger-user/service-passenger-user.iml" filepath="$PROJECT_DIR$/online-taxi/service-passenger-user/service-passenger-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-sms/service-sms.iml" filepath="$PROJECT_DIR$/online-taxi/service-sms/service-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-valuation/service-valuation.iml" filepath="$PROJECT_DIR$/online-taxi/service-valuation/service-valuation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-verification-code/service-verification-code.iml" filepath="$PROJECT_DIR$/online-taxi/service-verification-code/service-verification-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi/service-wallet/service-wallet.iml" filepath="$PROJECT_DIR$/online-taxi/service-wallet/service-wallet.iml" />
+    </modules>
+  </component>
+</project>

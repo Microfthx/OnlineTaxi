@@ -1,4 +1,4 @@
-package com.online.taxi.dto;
+package com.online.taxi.common.dto;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

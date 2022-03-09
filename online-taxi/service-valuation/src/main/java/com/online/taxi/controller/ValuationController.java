@@ -2,7 +2,7 @@ package com.online.taxi.controller;
 
 import com.online.taxi.constatnt.BusinessInterfaceStatus;
 import com.online.taxi.dto.ForecastDetail;
-import com.online.taxi.dto.ResponseResult;
+import com.online.taxi.common.dto.ResponseResult;
 import com.online.taxi.dto.request.CurrentPriceRequestDto;
 import com.online.taxi.dto.response.CurrentPriceResponseDto;
 import com.online.taxi.dto.valuation.PriceResult;

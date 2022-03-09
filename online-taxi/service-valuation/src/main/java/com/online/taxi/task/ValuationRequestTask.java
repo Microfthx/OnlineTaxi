@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.online.taxi.dao.OrderRuleMirrorDao;
 import com.online.taxi.dao.cache.RuleCache;
 import com.online.taxi.dto.DriveMeter;
-import com.online.taxi.dto.ResponseResult;
+import com.online.taxi.common.dto.ResponseResult;
 import com.online.taxi.dto.map.Distance;
 import com.online.taxi.dto.map.Route;
 import com.online.taxi.dto.valuation.charging.Rule;
